@@ -1,0 +1,4590 @@
+{
+  "version": "2.0",
+  "secret": "supersecret",
+  "type": "DevicesSeen",
+  "data": {
+    "apMac": "88:15:44:60:75:5c",
+    "apFloors": [
+      "RCDN6"
+    ],
+    "apTags": [],
+    "observations": [
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:11Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "2c:0e:3d:c7:05:e3",
+        "seenEpoch": 1572558071,
+        "rssi": 18,
+        "ipv6": null,
+        "manufacturer": "Samsung(THAILAND)"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993845875139,
+          "lng": -96.6788183521065,
+          "unc": 48.21664538811343,
+          "x": [
+            65.50467077098195
+          ],
+          "y": [
+            38.87474878042854
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:52Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "74:e5:f9:16:51:98",
+        "seenEpoch": 1572558052,
+        "rssi": 9,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993474447622,
+          "lng": -96.67881932089819,
+          "unc": 29.73328855852694,
+          "x": [
+            65.09283466929024
+          ],
+          "y": [
+            38.969248964204596
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:34Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "8c:85:90:62:0d:f1",
+        "seenEpoch": 1572558094,
+        "rssi": 22,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:32Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "70:f3:5a:7f:54:51",
+        "seenEpoch": 1572558092,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993614100174,
+          "lng": -96.67881895664345,
+          "unc": 48.125963300895,
+          "x": [
+            65.24768039287443
+          ],
+          "y": [
+            38.933717962333226
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:11Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "f8:3f:51:21:08:8b",
+        "seenEpoch": 1572558071,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Samsung"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993061765436,
+          "lng": -96.67882039729413,
+          "unc": 0.4519306361886246,
+          "x": [
+            64.63525569290472
+          ],
+          "y": [
+            39.07424533923619
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:31Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "d4:6d:6d:60:63:c3",
+        "seenEpoch": 1572558091,
+        "rssi": 45,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993519613611,
+          "lng": -96.67881920309208,
+          "unc": 47.977559028756765,
+          "x": [
+            65.14291438567852
+          ],
+          "y": [
+            38.957757640247905
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:55Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:81:98:a2:f7:1f",
+        "seenEpoch": 1572558055,
+        "rssi": 18,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993309246503,
+          "lng": -96.67881975179107,
+          "unc": 47.97648085743865,
+          "x": [
+            64.90966088193467
+          ],
+          "y": [
+            39.01128014314913
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:27Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "70:01:b5:76:2b:a7",
+        "seenEpoch": 1572558087,
+        "rssi": 12,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99992528270183,
+          "lng": -96.6788217888059,
+          "unc": 47.718240713183945,
+          "x": [
+            64.0437200762652
+          ],
+          "y": [
+            39.209979492222836
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:31Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "58:a0:23:69:fb:c2",
+        "seenEpoch": 1572558091,
+        "rssi": 8,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999941174395225,
+          "lng": -96.67881764378711,
+          "unc": 47.98713840222669,
+          "x": [
+            65.80577936461903
+          ],
+          "y": [
+            38.805656204686635
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:25Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:ca:c9:ee",
+        "seenEpoch": 1572558085,
+        "rssi": 15,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:36Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "c0:a6:00:58:37:90",
+        "seenEpoch": 1572558036,
+        "rssi": 14,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:11Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "f8:87:f1:49:d5:12",
+        "seenEpoch": 1572558071,
+        "rssi": 7,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993705279919,
+          "lng": -96.67881871882,
+          "unc": 48.16148556493785,
+          "x": [
+            65.3487798242631
+          ],
+          "y": [
+            38.910519620685484
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:30Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "10:02:b5:bd:75:81",
+        "seenEpoch": 1572558090,
+        "rssi": 10,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993011846781,
+          "lng": -96.67882052749658,
+          "unc": 47.92860263812353,
+          "x": [
+            64.57990625517911
+          ],
+          "y": [
+            39.0869458566714
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:36Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "00:72:78:48:6d:cc",
+        "seenEpoch": 1572558096,
+        "rssi": 13,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99992711825827,
+          "lng": -96.67882131003905,
+          "unc": 46.66309959233816,
+          "x": [
+            64.24724522571802
+          ],
+          "y": [
+            39.16327847674763
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:34Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "18:f1:d8:8e:eb:2a",
+        "seenEpoch": 1572558094,
+        "rssi": 14,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999925771711396,
+          "lng": -96.6788216612579,
+          "unc": 47.834559599893886,
+          "x": [
+            64.09794109760438
+          ],
+          "y": [
+            39.197537901073915
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:19Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "8c:85:90:bf:5a:26",
+        "seenEpoch": 1572558079,
+        "rssi": 10,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:20Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "34:f3:9a:4d:9b:e9",
+        "seenEpoch": 1572558080,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:24Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "2c:f0:a2:b0:a2:09",
+        "seenEpoch": 1572558084,
+        "rssi": 15,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999938736570044,
+          "lng": -96.67881827964327,
+          "unc": 47.982068399605936,
+          "x": [
+            65.53547509956135
+          ],
+          "y": [
+            38.86768039889364
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:26Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:9b:2a:41",
+        "seenEpoch": 1572558086,
+        "rssi": 16,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999937458154676,
+          "lng": -96.67881861309142,
+          "unc": 48.17734090866332,
+          "x": [
+            65.39372534275596
+          ],
+          "y": [
+            38.900206392463765
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:19Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:84:31:48",
+        "seenEpoch": 1572558079,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994026538348,
+          "lng": -96.67881788088398,
+          "unc": 17.009277455961453,
+          "x": [
+            65.70498881006176
+          ],
+          "y": [
+            38.82878367184875
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:31Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "fc:f1:36:18:6e:ff",
+        "seenEpoch": 1572558091,
+        "rssi": 36,
+        "ipv6": null,
+        "manufacturer": "Samsung"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:30Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:24:b1:fc",
+        "seenEpoch": 1572558090,
+        "rssi": 14,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993569911242,
+          "lng": -96.67881907190113,
+          "unc": 25.435236187990995,
+          "x": [
+            65.19868402974649
+          ],
+          "y": [
+            38.94496070094007
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:26Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "00:bf:77:19:76:9a",
+        "seenEpoch": 1572558086,
+        "rssi": 29,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:53Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "00:90:7a:a7:de:82",
+        "seenEpoch": 1572558053,
+        "rssi": 18,
+        "ipv6": null,
+        "manufacturer": "Spectralink"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99992848113391,
+          "lng": -96.6788209545612,
+          "unc": 44.74157052241245,
+          "x": [
+            64.39835987501512
+          ],
+          "y": [
+            39.12860361013751
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:35Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:12:bf:a8",
+        "seenEpoch": 1572558095,
+        "rssi": 16,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993060885707,
+          "lng": -96.67882039958872,
+          "unc": 47.883631192970675,
+          "x": [
+            64.63428025624029
+          ],
+          "y": [
+            39.074469163042004
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:06Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "dc:0c:5c:e1:ef:fe",
+        "seenEpoch": 1572558066,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994118283217,
+          "lng": -96.6788176415865,
+          "unc": 47.98715873082938,
+          "x": [
+            65.80671484652272
+          ],
+          "y": [
+            38.8054415478011
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:33Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:39:0b:ec",
+        "seenEpoch": 1572558093,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124127122,
+          "lng": -96.67881762634389,
+          "unc": 43.92693854307333,
+          "x": [
+            65.81319452614433
+          ],
+          "y": [
+            38.803954715937856
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:32Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "2c:33:61:af:b9:8d",
+        "seenEpoch": 1572558092,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993091352456,
+          "lng": -96.67882032012253,
+          "unc": 46.176919721285806,
+          "x": [
+            64.66806156345184
+          ],
+          "y": [
+            39.06671768277599
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:29Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "f8:62:14:4f:44:d4",
+        "seenEpoch": 1572558089,
+        "rssi": 18,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:32Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "34:f3:9a:54:4f:bb",
+        "seenEpoch": 1572558092,
+        "rssi": 9,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999938584540715,
+          "lng": -96.67881831929697,
+          "unc": 47.98180530134681,
+          "x": [
+            65.51861819919026
+          ],
+          "y": [
+            38.871548394370805
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:21Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:d7:30:9b",
+        "seenEpoch": 1572558081,
+        "rssi": 12,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993308638104,
+          "lng": -96.67881975337795,
+          "unc": 47.99563516540239,
+          "x": [
+            64.90898629396652
+          ],
+          "y": [
+            39.01143493470988
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:34Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "f8:a5:c5:b2:07:1c",
+        "seenEpoch": 1572558094,
+        "rssi": 13,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:29Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "90:e1:7b:0e:43:18",
+        "seenEpoch": 1572558029,
+        "rssi": 8,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993837317184,
+          "lng": -96.67881837442816,
+          "unc": 47.98144986782195,
+          "x": [
+            65.49518177329448
+          ],
+          "y": [
+            38.876926132633166
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:36Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:ec:cb:73",
+        "seenEpoch": 1572558096,
+        "rssi": 15,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:32Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "d8:f2:ca:b2:fe:e9",
+        "seenEpoch": 1572558032,
+        "rssi": 9,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999932621271455,
+          "lng": -96.67881987469214,
+          "unc": 41.69031265795878,
+          "x": [
+            64.85741528472295
+          ],
+          "y": [
+            39.02326845189103
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:26Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "ec:1d:8b:bb:23:d6",
+        "seenEpoch": 1572558086,
+        "rssi": 22,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:33Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "3c:fa:43:71:4a:28",
+        "seenEpoch": 1572558033,
+        "rssi": 9,
+        "ipv6": null,
+        "manufacturer": "Huawei Technologies"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:34Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "3c:6a:a7:3a:2f:87",
+        "seenEpoch": 1572558094,
+        "rssi": 5,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.9999247057969,
+          "lng": -96.6788219392796,
+          "unc": 42.28245668525548,
+          "x": [
+            63.97975328136218
+          ],
+          "y": [
+            39.22465735554019
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:30Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:02:ad:48",
+        "seenEpoch": 1572558090,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:09Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "dc:a9:04:75:ef:cb",
+        "seenEpoch": 1572558069,
+        "rssi": 1,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993559733111,
+          "lng": -96.67881909844867,
+          "unc": 48.10487666383375,
+          "x": [
+            65.18739859280976
+          ],
+          "y": [
+            38.94755026422003
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:17Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "74:e5:f9:18:a3:03",
+        "seenEpoch": 1572558077,
+        "rssi": 9,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99992402215497,
+          "lng": -96.67882211759343,
+          "unc": 47.985500897446705,
+          "x": [
+            63.903951566545025
+          ],
+          "y": [
+            39.24205086710624
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:30Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "58:c5:cb:a2:26:b3",
+        "seenEpoch": 1572558030,
+        "rssi": 7,
+        "ipv6": null,
+        "manufacturer": "Samsung"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993134790467,
+          "lng": -96.67882020682347,
+          "unc": 31.634961586318628,
+          "x": [
+            64.71622531117538
+          ],
+          "y": [
+            39.055665997037615
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:24Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "78:4f:43:98:a6:11",
+        "seenEpoch": 1572558084,
+        "rssi": 22,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993989520965,
+          "lng": -96.67881797743615,
+          "unc": 47.98427825114539,
+          "x": [
+            65.6639442078188
+          ],
+          "y": [
+            38.83820179345889
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:31Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:f1:36:18",
+        "seenEpoch": 1572558091,
+        "rssi": 15,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999930048122536,
+          "lng": -96.6788205458447,
+          "unc": 47.893684045180805,
+          "x": [
+            64.57210642303183
+          ],
+          "y": [
+            39.08873561238286
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:34Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "18:81:0e:21:90:5c",
+        "seenEpoch": 1572558094,
+        "rssi": 15,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993974209554,
+          "lng": -96.67881801737279,
+          "unc": 48.267402575542725,
+          "x": [
+            65.64696702800211
+          ],
+          "y": [
+            38.84209738797604
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:47Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "00:38:df:b4:14:96",
+        "seenEpoch": 1572558047,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99992847555492,
+          "lng": -96.67882095601637,
+          "unc": 47.97829944596885,
+          "x": [
+            64.3977412807336
+          ],
+          "y": [
+            39.1287455531229
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:55Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "54:33:cb:52:c6:3c",
+        "seenEpoch": 1572558055,
+        "rssi": 8,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993272374838,
+          "lng": -96.67881984796315,
+          "unc": 4.666687233492014,
+          "x": [
+            64.8687778508475
+          ],
+          "y": [
+            39.020661189782984
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:30Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "94:bf:2d:13:ed:96",
+        "seenEpoch": 1572558090,
+        "rssi": 38,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124087761,
+          "lng": -96.67881762644656,
+          "unc": 48.327171321294415,
+          "x": [
+            65.81315088271423
+          ],
+          "y": [
+            38.80396473111944
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:16Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:fb:b5:7e",
+        "seenEpoch": 1572558076,
+        "rssi": 9,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:56Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "70:f3:5a:7f:9e:91",
+        "seenEpoch": 1572558056,
+        "rssi": 5,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:54Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "fc:c2:de:07:aa:0a",
+        "seenEpoch": 1572558054,
+        "rssi": 9,
+        "ipv6": null,
+        "manufacturer": "Murata Manufacturing"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994121890886,
+          "lng": -96.67881763217665,
+          "unc": 47.9872458732152,
+          "x": [
+            65.81071500360896
+          ],
+          "y": [
+            38.804523668896245
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:22Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:3e:56:91",
+        "seenEpoch": 1572558082,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999940860415876,
+          "lng": -96.67881772568211,
+          "unc": 48.31194920395527,
+          "x": [
+            65.77096556504465
+          ],
+          "y": [
+            38.8136446012907
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:23Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "10:f1:f2:85:e2:3d",
+        "seenEpoch": 1572558023,
+        "rssi": 20,
+        "ipv6": null,
+        "manufacturer": "LG Electronics (Mobile..."
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999937673902274,
+          "lng": -96.67881855681813,
+          "unc": 48.185795670951464,
+          "x": [
+            65.41764727786534
+          ],
+          "y": [
+            38.894717248961854
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:15Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "04:eb:40:60:2b:82",
+        "seenEpoch": 1572558075,
+        "rssi": 10,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993524360497,
+          "lng": -96.6788191907108,
+          "unc": 48.091194900387826,
+          "x": [
+            65.14817769867744
+          ],
+          "y": [
+            38.95654991617869
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:46Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "40:16:3b:f0:fb:28",
+        "seenEpoch": 1572558046,
+        "rssi": 8,
+        "ipv6": null,
+        "manufacturer": "Samsung"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:26Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "dc:ef:ca:4e:2c:65",
+        "seenEpoch": 1572558086,
+        "rssi": 19,
+        "ipv6": null,
+        "manufacturer": "Murata Manufacturing"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.9999264949225,
+          "lng": -96.67882147262327,
+          "unc": 47.8498648676115,
+          "x": [
+            64.17813021322921
+          ],
+          "y": [
+            39.179137653127874
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:35Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "e4:a7:a0:cd:52:ee",
+        "seenEpoch": 1572558095,
+        "rssi": 8,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:28Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "bc:a9:20:a7:06:25",
+        "seenEpoch": 1572558088,
+        "rssi": 16,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:36Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "f8:38:80:47:0f:4b",
+        "seenEpoch": 1572558096,
+        "rssi": 10,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 43.562546906687274,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:29Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "f0:18:98:b3:4c:1d",
+        "seenEpoch": 1572558089,
+        "rssi": 21,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:46Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "f0:18:98:47:e4:fa",
+        "seenEpoch": 1572558046,
+        "rssi": 10,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 3.4562546906687297,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:41Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "dc:ef:ca:4f:08:4f",
+        "seenEpoch": 1572558041,
+        "rssi": 41,
+        "ipv6": null,
+        "manufacturer": "Murata Manufacturing"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:11Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "38:f9:d3:80:7f:33",
+        "seenEpoch": 1572558011,
+        "rssi": 8,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:25Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "d8:67:d9:61:7b:82",
+        "seenEpoch": 1572558085,
+        "rssi": 6,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993989520965,
+          "lng": -96.67881797743615,
+          "unc": 34.884361035622256,
+          "x": [
+            65.6639442078188
+          ],
+          "y": [
+            38.83820179345889
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:04Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "fc:c2:de:db:c1:ad",
+        "seenEpoch": 1572558064,
+        "rssi": 30,
+        "ipv6": null,
+        "manufacturer": "Murata Manufacturing"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:11Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "cc:66:0a:4c:b8:fa",
+        "seenEpoch": 1572558011,
+        "rssi": 10,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999939222307994,
+          "lng": -96.6788181529486,
+          "unc": 27.427874320992245,
+          "x": [
+            65.58933336653696
+          ],
+          "y": [
+            38.855322045621435
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:06Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "48:e9:f1:b7:0c:21",
+        "seenEpoch": 1572558066,
+        "rssi": 28,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:58Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "a4:c3:f0:44:72:e9",
+        "seenEpoch": 1572558058,
+        "rssi": 12,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:25Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "f4:f5:24:03:d7:26",
+        "seenEpoch": 1572558025,
+        "rssi": 14,
+        "ipv6": null,
+        "manufacturer": "Motorola Mobility LLC, a..."
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:36Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "f0:18:98:45:86:8d",
+        "seenEpoch": 1572558096,
+        "rssi": 18,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993636369965,
+          "lng": -96.67881889855732,
+          "unc": 47.97867252905016,
+          "x": [
+            65.27237297391143
+          ],
+          "y": [
+            38.92805198681563
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:20Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:36:b4:ef",
+        "seenEpoch": 1572558080,
+        "rssi": 15,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993795567158,
+          "lng": -96.67881848332445,
+          "unc": 33.50622505438819,
+          "x": [
+            65.4488896511752
+          ],
+          "y": [
+            38.887548353472
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:31Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "28:b2:bd:05:c6:e3",
+        "seenEpoch": 1572558091,
+        "rssi": 27,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:32Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "dc:a9:04:88:cb:14",
+        "seenEpoch": 1572558032,
+        "rssi": 13,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 24.05936168136361,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:35Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "fc:c2:de:f5:81:31",
+        "seenEpoch": 1572558095,
+        "rssi": 26,
+        "ipv6": null,
+        "manufacturer": "Murata Manufacturing"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993011846781,
+          "lng": -96.67882052749658,
+          "unc": 47.92860263812353,
+          "x": [
+            64.57990625517911
+          ],
+          "y": [
+            39.0869458566714
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:10Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "38:f9:d3:96:03:f4",
+        "seenEpoch": 1572558070,
+        "rssi": 13,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994111633441,
+          "lng": -96.67881765893107,
+          "unc": 37.41961481336025,
+          "x": [
+            65.79934162431856
+          ],
+          "y": [
+            38.80713341227896
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:19Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:9d:00:54",
+        "seenEpoch": 1572558079,
+        "rssi": 25,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:18Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "70:f3:5a:7f:9e:51",
+        "seenEpoch": 1572558078,
+        "rssi": 6,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:51Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "1c:1b:b5:1c:8d:dd",
+        "seenEpoch": 1572558051,
+        "rssi": 12,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993823160818,
+          "lng": -96.67881841135211,
+          "unc": 48.207702196796824,
+          "x": [
+            65.47948529943109
+          ],
+          "y": [
+            38.88052785642412
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:22Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "74:e5:f9:16:52:e2",
+        "seenEpoch": 1572558082,
+        "rssi": 13,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999934012397894,
+          "lng": -96.67881951184565,
+          "unc": 47.9768054726769,
+          "x": [
+            65.01166236225134
+          ],
+          "y": [
+            38.98787481580284
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:02Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "40:a3:cc:21:4e:2c",
+        "seenEpoch": 1572558062,
+        "rssi": 16,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993766288632,
+          "lng": -96.67881855969141,
+          "unc": 47.98034373349524,
+          "x": [
+            65.41642583673581
+          ],
+          "y": [
+            38.894997521154686
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:36Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "34:8a:7b:3d:f6:f4",
+        "seenEpoch": 1572558036,
+        "rssi": 17,
+        "ipv6": null,
+        "manufacturer": "Samsung"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:44Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "8c:45:00:9a:ed:ca",
+        "seenEpoch": 1572558044,
+        "rssi": 8,
+        "ipv6": null,
+        "manufacturer": "Murata Manufacturing"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:24Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "58:7f:57:e5:f2:31",
+        "seenEpoch": 1572558084,
+        "rssi": 7,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:14Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "88:b1:11:77:4a:de",
+        "seenEpoch": 1572558074,
+        "rssi": 10,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993471960191,
+          "lng": -96.67881932738614,
+          "unc": 3.946882920204916,
+          "x": [
+            65.0900766240072
+          ],
+          "y": [
+            38.969881827397046
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:05Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "fc:f1:36:18:6d:c7",
+        "seenEpoch": 1572558065,
+        "rssi": 53,
+        "ipv6": null,
+        "manufacturer": "Samsung"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:11Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "3c:6a:a7:3a:2f:78",
+        "seenEpoch": 1572558071,
+        "rssi": 9,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999939632479716,
+          "lng": -96.67881804596381,
+          "unc": 35.11311573115059,
+          "x": [
+            65.63481290577631
+          ],
+          "y": [
+            38.84488628104505
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:23Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:76:e1:57",
+        "seenEpoch": 1572558083,
+        "rssi": 29,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999939757241236,
+          "lng": -96.67881801342234,
+          "unc": 44.186602203290754,
+          "x": [
+            65.64864637147221
+          ],
+          "y": [
+            38.84171204409431
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:33Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "00:cc:fc:99:dc:d2",
+        "seenEpoch": 1572558093,
+        "rssi": 21,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:27Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "f0:d5:bf:8a:c1:b3",
+        "seenEpoch": 1572558087,
+        "rssi": 8,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:51Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "fc:18:3c:62:00:ea",
+        "seenEpoch": 1572558051,
+        "rssi": 7,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:59Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "98:10:e8:bd:d3:4a",
+        "seenEpoch": 1572558059,
+        "rssi": 6,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993640975775,
+          "lng": -96.67881888654402,
+          "unc": 47.978723992624595,
+          "x": [
+            65.2774798619535
+          ],
+          "y": [
+            38.92688015669778
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:23Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:2c:36:46",
+        "seenEpoch": 1572558083,
+        "rssi": 17,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993424951666,
+          "lng": -96.67881944999813,
+          "unc": 22.32691716855974,
+          "x": [
+            65.03795391716059
+          ],
+          "y": [
+            38.981841938253325
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:00Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "74:a0:2f:c0:aa:58",
+        "seenEpoch": 1572558060,
+        "rssi": 28,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:23Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "a0:cc:2b:8b:68:58",
+        "seenEpoch": 1572558083,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Murata Manufacturing"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999931919407516,
+          "lng": -96.6788200577588,
+          "unc": 47.97639806263785,
+          "x": [
+            64.77959312676212
+          ],
+          "y": [
+            39.04112557575405
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:35Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "88:e9:fe:54:42:65",
+        "seenEpoch": 1572558095,
+        "rssi": 17,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124211001,
+          "lng": -96.67881762612511,
+          "unc": 27.112815023342993,
+          "x": [
+            65.8132875304117
+          ],
+          "y": [
+            38.803933375538456
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:19Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "fc:f1:36:18:6e:f5",
+        "seenEpoch": 1572558079,
+        "rssi": 55,
+        "ipv6": null,
+        "manufacturer": "Samsung"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999935360067326,
+          "lng": -96.67881916033402,
+          "unc": 48.09569625674753,
+          "x": [
+            65.16109095878576
+          ],
+          "y": [
+            38.95358683178198
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:04Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "78:4f:43:9c:5f:93",
+        "seenEpoch": 1572558064,
+        "rssi": 17,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.9999412414367,
+          "lng": -96.67881762630073,
+          "unc": 46.55910027426546,
+          "x": [
+            65.81321287425946
+          ],
+          "y": [
+            38.80395050606785
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:27Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "3c:a9:f4:00:d8:4c",
+        "seenEpoch": 1572558087,
+        "rssi": 21,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:37Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "f0:c3:71:59:85:a6",
+        "seenEpoch": 1572558037,
+        "rssi": 9,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993807654368,
+          "lng": -96.67881845179747,
+          "unc": 48.201603925789335,
+          "x": [
+            65.46229186100784
+          ],
+          "y": [
+            38.88447307373762
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:31Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:c3:c2:e6",
+        "seenEpoch": 1572558091,
+        "rssi": 10,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999927201440194,
+          "lng": -96.67882128834277,
+          "unc": 47.979813585020295,
+          "x": [
+            64.25646837629228
+          ],
+          "y": [
+            39.16116212653763
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:34Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "70:01:b5:76:27:de",
+        "seenEpoch": 1572558094,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999927588193295,
+          "lng": -96.67882118746624,
+          "unc": 47.979307693891016,
+          "x": [
+            64.29935127595178
+          ],
+          "y": [
+            39.15132218762842
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:25Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "fc:18:3c:1b:ef:78",
+        "seenEpoch": 1572558085,
+        "rssi": 13,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99992660806493,
+          "lng": -96.67882144311241,
+          "unc": 47.980668170813836,
+          "x": [
+            64.19067536319906
+          ],
+          "y": [
+            39.17625903480585
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:01Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:d7:af:1e:6d:39",
+        "seenEpoch": 1572558061,
+        "rssi": 9,
+        "ipv6": null,
+        "manufacturer": "Murata Manufacturing"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994033007004,
+          "lng": -96.67881786401183,
+          "unc": 40.4089222894844,
+          "x": [
+            65.71216120832162
+          ],
+          "y": [
+            38.8271378884572
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:24Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "00:5d:73:d9:8f:f9",
+        "seenEpoch": 1572558084,
+        "rssi": 23,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999936013011066,
+          "lng": -96.67881899002717,
+          "unc": 7.5414832104848735,
+          "x": [
+            65.23348888096541
+          ],
+          "y": [
+            38.9369743559729
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:31Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "38:f9:d3:a6:12:5e",
+        "seenEpoch": 1572558091,
+        "rssi": 40,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993304600985,
+          "lng": -96.67881976390794,
+          "unc": 47.97647051980004,
+          "x": [
+            64.9045099659857
+          ],
+          "y": [
+            39.012462075818135
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:14Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "c0:d3:c0:23:95:b3",
+        "seenEpoch": 1572558014,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Samsung"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99992995358729,
+          "lng": -96.67882057050225,
+          "unc": 47.97709154457767,
+          "x": [
+            64.56162442446693
+          ],
+          "y": [
+            39.0911408180734
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:31Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "00:38:df:b5:14:60",
+        "seenEpoch": 1572558091,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:21Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "00:87:64:a9:1f:38",
+        "seenEpoch": 1572558081,
+        "rssi": 9,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:15Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "00:a7:42:20:65:0a",
+        "seenEpoch": 1572558075,
+        "rssi": 6,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993966429472,
+          "lng": -96.67881803766552,
+          "unc": 31.204610474699077,
+          "x": [
+            65.6383405302376
+          ],
+          "y": [
+            38.84407682984207
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:17Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:e6:39:49",
+        "seenEpoch": 1572558077,
+        "rssi": 31,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999936155691,
+          "lng": -96.67881895281207,
+          "unc": 39.41292805654647,
+          "x": [
+            65.2493091275807
+          ],
+          "y": [
+            38.93334423190875
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:34Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "00:72:78:48:75:a6",
+        "seenEpoch": 1572558094,
+        "rssi": 26,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993448256743,
+          "lng": -96.67881938921167,
+          "unc": 23.723189432140067,
+          "x": [
+            65.0637944152995
+          ],
+          "y": [
+            38.97591256050545
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:21Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "7c:04:d0:c0:2f:aa",
+        "seenEpoch": 1572558081,
+        "rssi": 26,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:23Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "9c:e6:5e:05:7b:cf",
+        "seenEpoch": 1572558023,
+        "rssi": 6,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:09Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "e0:33:8e:e9:e2:d7",
+        "seenEpoch": 1572558009,
+        "rssi": 5,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999936946117685,
+          "lng": -96.67881874664565,
+          "unc": 47.97936542693654,
+          "x": [
+            65.33695105740878
+          ],
+          "y": [
+            38.91323385643609
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:33Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:ba:02:8f",
+        "seenEpoch": 1572558093,
+        "rssi": 15,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:53Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "14:4f:8a:dd:f0:bd",
+        "seenEpoch": 1572558053,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99992694718964,
+          "lng": -96.67882135465877,
+          "unc": 45.59332668033954,
+          "x": [
+            64.22827726196213
+          ],
+          "y": [
+            39.167630878723514
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:16Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "60:67:20:2a:2b:80",
+        "seenEpoch": 1572558076,
+        "rssi": 13,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99992550602821,
+          "lng": -96.67882173055585,
+          "unc": 47.982507264056146,
+          "x": [
+            64.06848234136675
+          ],
+          "y": [
+            39.20429752701228
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:18Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "70:f3:5a:7f:9f:71",
+        "seenEpoch": 1572558078,
+        "rssi": 10,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 44.15858091995289,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:03Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "4c:57:ca:75:f3:19",
+        "seenEpoch": 1572558063,
+        "rssi": 10,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:06Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "8c:85:90:1b:4f:b5",
+        "seenEpoch": 1572558006,
+        "rssi": 12,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993633558911,
+          "lng": -96.67881890588937,
+          "unc": 48.07163298872433,
+          "x": [
+            65.26925609772353
+          ],
+          "y": [
+            38.92876718689498
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:36Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:40:d5:68",
+        "seenEpoch": 1572558096,
+        "rssi": 14,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:15Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "38:f9:d3:25:8c:70",
+        "seenEpoch": 1572558075,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:31Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:3a:21:59",
+        "seenEpoch": 1572558091,
+        "rssi": 13,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99992738159346,
+          "lng": -96.67882124135353,
+          "unc": 47.97957291717221,
+          "x": [
+            64.276443637936
+          ],
+          "y": [
+            39.156578589989024
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:35Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "00:27:90:2a:a6:92",
+        "seenEpoch": 1572558095,
+        "rssi": 7,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:23Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "00:a5:bf:c5:40:ce",
+        "seenEpoch": 1572558083,
+        "rssi": 10,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999941240070775,
+          "lng": -96.678817626657,
+          "unc": 36.83702741290683,
+          "x": [
+            65.81306142137677
+          ],
+          "y": [
+            38.803985257858336
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:37Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "2c:33:7a:4a:8f:91",
+        "seenEpoch": 1572558037,
+        "rssi": 24,
+        "ipv6": null,
+        "manufacturer": "Hon Hai/Foxconn"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:36Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "f4:8c:50:f2:94:23",
+        "seenEpoch": 1572558036,
+        "rssi": 7,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:10Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "ac:37:43:a4:30:d7",
+        "seenEpoch": 1572558010,
+        "rssi": 8,
+        "ipv6": null,
+        "manufacturer": "HTC"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993361867601,
+          "lng": -96.67881961453983,
+          "unc": 6.633890577609917,
+          "x": [
+            64.9680067690569
+          ],
+          "y": [
+            38.997892056642584
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:02Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "80:7a:bf:b6:0b:35",
+        "seenEpoch": 1572558062,
+        "rssi": 34,
+        "ipv6": null,
+        "manufacturer": "HTC"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:20Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "74:b5:87:2c:96:bd",
+        "seenEpoch": 1572558080,
+        "rssi": 13,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999941233104195,
+          "lng": -96.67881762847409,
+          "unc": 31.195120223777597,
+          "x": [
+            65.81228897209294
+          ],
+          "y": [
+            38.80416250563929
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:35Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "70:f1:a1:59:df:ce",
+        "seenEpoch": 1572558095,
+        "rssi": 28,
+        "ipv6": null,
+        "manufacturer": "Lite-On"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999935098236584,
+          "lng": -96.67881922862713,
+          "unc": 15.545825457263632,
+          "x": [
+            65.13205935847263
+          ],
+          "y": [
+            38.96024844170644
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:21Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "7c:d9:5c:b0:94:d0",
+        "seenEpoch": 1572558081,
+        "rssi": 27,
+        "ipv6": null,
+        "manufacturer": "Google"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:22Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "40:a3:cc:20:96:f8",
+        "seenEpoch": 1572558082,
+        "rssi": 10,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999941240525374,
+          "lng": -96.67881762653843,
+          "unc": 48.32715721280937,
+          "x": [
+            65.813111826895
+          ],
+          "y": [
+            38.803973692834155
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:32Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "98:3b:8f:a1:4e:1a",
+        "seenEpoch": 1572558092,
+        "rssi": 17,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:03Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "2c:31:24:6c:0c:7c",
+        "seenEpoch": 1572558063,
+        "rssi": 9,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993415660898,
+          "lng": -96.67881947423118,
+          "unc": 48.04933753187531,
+          "x": [
+            65.02765238149267
+          ],
+          "y": [
+            38.98420573566586
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:49Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "90:78:41:76:cf:87",
+        "seenEpoch": 1572558049,
+        "rssi": 7,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993696118627,
+          "lng": -96.67881874271532,
+          "unc": 48.15790755049339,
+          "x": [
+            65.33862185119968
+          ],
+          "y": [
+            38.91285047535228
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:14Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "f8:a5:c5:9e:73:3e",
+        "seenEpoch": 1572558074,
+        "rssi": 9,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:41Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "f0:98:9d:4d:46:f9",
+        "seenEpoch": 1572558041,
+        "rssi": 9,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:15Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "38:f9:d3:e7:2e:d2",
+        "seenEpoch": 1572558015,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:12Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "8c:85:90:95:25:97",
+        "seenEpoch": 1572558012,
+        "rssi": 16,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 5.294627058970837,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:36Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "64:a2:f9:36:6d:02",
+        "seenEpoch": 1572558096,
+        "rssi": 38,
+        "ipv6": null,
+        "manufacturer": "OnePlus Technology..."
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:27Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "70:6e:6d:10:0a:82",
+        "seenEpoch": 1572558087,
+        "rssi": 10,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:34Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "4c:57:ca:73:82:17",
+        "seenEpoch": 1572558094,
+        "rssi": 10,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:15Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b0:10:41:f2:b6:5f",
+        "seenEpoch": 1572558075,
+        "rssi": 9,
+        "ipv6": null,
+        "manufacturer": "Hon Hai/Foxconn"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99992565919742,
+          "lng": -96.67882169060483,
+          "unc": 47.982232057670934,
+          "x": [
+            64.08546563090947
+          ],
+          "y": [
+            39.20040052971103
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:22Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b0:72:bf:d5:d8:3c",
+        "seenEpoch": 1572558022,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Murata Manufacturing"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999930348147196,
+          "lng": -96.67882046758949,
+          "unc": 47.97686874153468,
+          "x": [
+            64.60537293684038
+          ],
+          "y": [
+            39.08110225624613
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:52Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "d4:a3:3d:c1:0a:c4",
+        "seenEpoch": 1572558052,
+        "rssi": 10,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993601802103,
+          "lng": -96.67881898872042,
+          "unc": 9.698820613439821,
+          "x": [
+            65.23404438229066
+          ],
+          "y": [
+            38.93684689034525
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:31Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "8c:85:90:ab:72:65",
+        "seenEpoch": 1572558031,
+        "rssi": 38,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993916974895,
+          "lng": -96.67881816665754,
+          "unc": 44.65115650825527,
+          "x": [
+            65.5835056582321
+          ],
+          "y": [
+            38.85665927580402
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:24Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "74:e5:f9:18:9d:ea",
+        "seenEpoch": 1572558084,
+        "rssi": 21,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993796278494,
+          "lng": -96.67881848146908,
+          "unc": 40.044593852444876,
+          "x": [
+            65.449678375767
+          ],
+          "y": [
+            38.887367372615785
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:36Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "bc:c4:93:50:dd:ea",
+        "seenEpoch": 1572558096,
+        "rssi": 22,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993919892318,
+          "lng": -96.67881815904803,
+          "unc": 47.9829068351794,
+          "x": [
+            65.58674047552847
+          ],
+          "y": [
+            38.855917011819756
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:27Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:18:23:1c",
+        "seenEpoch": 1572558087,
+        "rssi": 10,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999936234235754,
+          "lng": -96.6788189323253,
+          "unc": 47.978530935405615,
+          "x": [
+            65.25801811188717
+          ],
+          "y": [
+            38.93134586300056
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:31Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:81:c7:e8",
+        "seenEpoch": 1572558091,
+        "rssi": 15,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993291928255,
+          "lng": -96.67881979696213,
+          "unc": 47.97644527931855,
+          "x": [
+            64.89045853599504
+          ],
+          "y": [
+            39.01568632649199
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:36Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "70:01:b5:76:2a:7e",
+        "seenEpoch": 1572558096,
+        "rssi": 10,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:24Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "00:19:7e:b3:ec:1f",
+        "seenEpoch": 1572558024,
+        "rssi": 7,
+        "ipv6": null,
+        "manufacturer": "Hon Hai/Foxconn"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994066700008,
+          "lng": -96.67881777613061,
+          "unc": 41.46462506605542,
+          "x": [
+            65.74951976395234
+          ],
+          "y": [
+            38.818565569480896
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:37Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "88:64:40:77:92:b1",
+        "seenEpoch": 1572558037,
+        "rssi": 35,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99992804722807,
+          "lng": -96.67882106773654,
+          "unc": 47.819349171088994,
+          "x": [
+            64.35024871432597
+          ],
+          "y": [
+            39.13964322778129
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:29Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "8c:85:90:62:0e:a5",
+        "seenEpoch": 1572558089,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:38Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "88:b1:11:77:86:a2",
+        "seenEpoch": 1572558038,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993797387693,
+          "lng": -96.67881847857596,
+          "unc": 48.1109833765651,
+          "x": [
+            65.45090824761536
+          ],
+          "y": [
+            38.88708516532983
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:19Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:ab:e7:8c",
+        "seenEpoch": 1572558079,
+        "rssi": 13,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99992706720953,
+          "lng": -96.67882132335406,
+          "unc": 47.979998595049864,
+          "x": [
+            64.24158497928426
+          ],
+          "y": [
+            39.16457728041284
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:28Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "00:38:df:b4:1c:50",
+        "seenEpoch": 1572558088,
+        "rssi": 3,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99992965079799,
+          "lng": -96.67882064947857,
+          "unc": 46.66878113586111,
+          "x": [
+            64.52805136900567
+          ],
+          "y": [
+            39.0988445135929
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:03Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "c4:b3:01:c2:13:87",
+        "seenEpoch": 1572558063,
+        "rssi": 16,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999938882776405,
+          "lng": -96.67881824150837,
+          "unc": 48.13311179002242,
+          "x": [
+            65.55168635343145
+          ],
+          "y": [
+            38.86396055375917
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:41Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "a4:c3:f0:3a:ec:ec",
+        "seenEpoch": 1572558041,
+        "rssi": 15,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999934921133374,
+          "lng": -96.67881927482084,
+          "unc": 48.03821457862596,
+          "x": [
+            65.11242228462878
+          ],
+          "y": [
+            38.964754377983674
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:36Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "00:38:df:b5:0d:04",
+        "seenEpoch": 1572558096,
+        "rssi": 9,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993500256596,
+          "lng": -96.67881925358083,
+          "unc": 47.977409954397466,
+          "x": [
+            65.12145147022525
+          ],
+          "y": [
+            38.96268253418696
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:34Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "8c:85:90:35:04:b6",
+        "seenEpoch": 1572558094,
+        "rssi": 16,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993319817482,
+          "lng": -96.67881972421885,
+          "unc": 48.012664679674195,
+          "x": [
+            64.92138190630433
+          ],
+          "y": [
+            39.008590628754085
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:19Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "3c:28:6d:0a:74:6a",
+        "seenEpoch": 1572558019,
+        "rssi": 10,
+        "ipv6": null,
+        "manufacturer": "Google"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:25Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "58:40:4e:41:f7:9f",
+        "seenEpoch": 1572558085,
+        "rssi": 17,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993985654377,
+          "lng": -96.67881798752134,
+          "unc": 27.944385907078384,
+          "x": [
+            65.65965696331665
+          ],
+          "y": [
+            38.839185546873175
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:55Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "fc:f1:36:18:6f:07",
+        "seenEpoch": 1572558055,
+        "rssi": 39,
+        "ipv6": null,
+        "manufacturer": "Samsung"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:24Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "8c:85:90:b2:a5:75",
+        "seenEpoch": 1572558084,
+        "rssi": 9,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993538191049,
+          "lng": -96.67881915463667,
+          "unc": 48.1558455454828,
+          "x": [
+            65.16351291272376
+          ],
+          "y": [
+            38.953031087851265
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:17Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "fc:18:3c:1c:e4:f2",
+        "seenEpoch": 1572558077,
+        "rssi": 12,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999940818575205,
+          "lng": -96.67881773659538,
+          "unc": 47.986298531855304,
+          "x": [
+            65.76632630213898
+          ],
+          "y": [
+            38.814709129313925
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:32Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:e9:6c:c0",
+        "seenEpoch": 1572558092,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99992757174875,
+          "lng": -96.67882119175546,
+          "unc": 47.979328382964056,
+          "x": [
+            64.29752791685321
+          ],
+          "y": [
+            39.15174057689492
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:11Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "00:27:90:2a:af:86",
+        "seenEpoch": 1572558071,
+        "rssi": 6,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:09Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "8c:85:90:5d:40:3f",
+        "seenEpoch": 1572558009,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.9999356689988,
+          "lng": -96.67881907975564,
+          "unc": 45.49175590840488,
+          "x": [
+            65.19534505387384
+          ],
+          "y": [
+            38.945726864254
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:39Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "18:1d:ea:97:46:d6",
+        "seenEpoch": 1572558039,
+        "rssi": 14,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:18Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "7c:5c:f8:5f:be:dc",
+        "seenEpoch": 1572558018,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999938412719935,
+          "lng": -96.67881836411286,
+          "unc": 47.98151545488719,
+          "x": [
+            65.49956683735775
+          ],
+          "y": [
+            38.875919932696576
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:26Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:1a:d0:17",
+        "seenEpoch": 1572558086,
+        "rssi": 13,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:07Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "f0:18:98:83:3a:79",
+        "seenEpoch": 1572558067,
+        "rssi": 14,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99992676169608,
+          "lng": -96.67882140304091,
+          "unc": 47.98043779985071,
+          "x": [
+            64.20770987209963
+          ],
+          "y": [
+            39.17235028536229
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:36Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "8c:85:90:61:fe:cb",
+        "seenEpoch": 1572558096,
+        "rssi": 13,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99992891270691,
+          "lng": -96.67882084199432,
+          "unc": 45.329942805071575,
+          "x": [
+            64.44621237292199
+          ],
+          "y": [
+            39.11762334364525
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:36Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:06:df:22",
+        "seenEpoch": 1572558096,
+        "rssi": 15,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993286089916,
+          "lng": -96.67881981219023,
+          "unc": 47.976435108632835,
+          "x": [
+            64.88398502834329
+          ],
+          "y": [
+            39.01717174169055
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:24Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "a4:5e:60:d3:55:c1",
+        "seenEpoch": 1572558084,
+        "rssi": 14,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993667079948,
+          "lng": -96.6788188184567,
+          "unc": 48.146579418162716,
+          "x": [
+            65.30642397685793
+          ],
+          "y": [
+            38.92023862154792
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:16Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "fc:c2:de:f6:61:a4",
+        "seenEpoch": 1572558016,
+        "rssi": 9,
+        "ipv6": null,
+        "manufacturer": "Murata Manufacturing"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99992985131301,
+          "lng": -96.67882059717839,
+          "unc": 47.886329547927076,
+          "x": [
+            64.55028432767512
+          ],
+          "y": [
+            39.09374292491824
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:43Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "78:4f:43:8f:06:8e",
+        "seenEpoch": 1572558043,
+        "rssi": 9,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 21.33417960754815,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:13Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "20:39:56:af:a7:5a",
+        "seenEpoch": 1572558013,
+        "rssi": 27,
+        "ipv6": null,
+        "manufacturer": "HMD Global Oy"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993324727006,
+          "lng": -96.67881971141338,
+          "unc": 47.97651950821118,
+          "x": [
+            64.92682554984358
+          ],
+          "y": [
+            39.00734152689744
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:30Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:58:a9:a6",
+        "seenEpoch": 1572558090,
+        "rssi": 17,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.9999317525595,
+          "lng": -96.67882010127765,
+          "unc": 47.95776653552037,
+          "x": [
+            64.76109314110273
+          ],
+          "y": [
+            39.045370595210066
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:34Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "f0:18:98:45:a8:82",
+        "seenEpoch": 1572558094,
+        "rssi": 13,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:35Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "40:49:0f:62:72:d1",
+        "seenEpoch": 1572558035,
+        "rssi": 13,
+        "ipv6": null,
+        "manufacturer": "Hon Hai/Foxconn"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999941240472616,
+          "lng": -96.67881762655219,
+          "unc": 33.70950438876064,
+          "x": [
+            65.81310597714466
+          ],
+          "y": [
+            38.80397503468541
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:39Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "d4:3b:04:9e:e1:66",
+        "seenEpoch": 1572558039,
+        "rssi": 39,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.9999411696594,
+          "lng": -96.67881764502235,
+          "unc": 48.32431932577687,
+          "x": [
+            65.80525425990815
+          ],
+          "y": [
+            38.80577669503234
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:25Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:08:00:90",
+        "seenEpoch": 1572558085,
+        "rssi": 10,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 38.71641173621407,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:27Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "90:e1:7b:6b:a1:66",
+        "seenEpoch": 1572558087,
+        "rssi": 22,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99992836327828,
+          "lng": -96.6788209853014,
+          "unc": 47.97841528259134,
+          "x": [
+            64.38529212962435
+          ],
+          "y": [
+            39.131602143513916
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:36Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "8c:85:90:95:2c:eb",
+        "seenEpoch": 1572558096,
+        "rssi": 11,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:59Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "70:f3:5a:7f:9c:d1",
+        "seenEpoch": 1572558059,
+        "rssi": 5,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993023259635,
+          "lng": -96.67882049772852,
+          "unc": 21.724162350818677,
+          "x": [
+            64.59256074379617
+          ],
+          "y": [
+            39.08404214970189
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:36Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "f0:18:98:45:aa:ac",
+        "seenEpoch": 1572558096,
+        "rssi": 26,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999933936642975,
+          "lng": -96.67881953160474,
+          "unc": 48.01525922701229,
+          "x": [
+            65.00326271251089
+          ],
+          "y": [
+            38.98980220488918
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:18Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:6b:7f:1d",
+        "seenEpoch": 1572558078,
+        "rssi": 12,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:16Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "e4:9a:dc:dd:c3:71",
+        "seenEpoch": 1572558076,
+        "rssi": 7,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993906237186,
+          "lng": -96.67881819466461,
+          "unc": 45.03513406857604,
+          "x": [
+            65.57159976533487
+          ],
+          "y": [
+            38.85939120902606
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:16Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "3c:6a:a7:dd:25:6b",
+        "seenEpoch": 1572558016,
+        "rssi": 22,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99992637874796,
+          "lng": -96.67882150292499,
+          "unc": 39.7691288747671,
+          "x": [
+            64.16524886556063
+          ],
+          "y": [
+            39.182093415638704
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:32Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:5b:bb:13",
+        "seenEpoch": 1572558092,
+        "rssi": 17,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993460344065,
+          "lng": -96.67881935768439,
+          "unc": 34.531585901404036,
+          "x": [
+            65.07719674881666
+          ],
+          "y": [
+            38.972837251693505
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:23Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "6c:72:e7:55:62:25",
+        "seenEpoch": 1572558083,
+        "rssi": 23,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994123131976,
+          "lng": -96.67881762893953,
+          "unc": 39.90372989829039,
+          "x": [
+            65.81209111517316
+          ],
+          "y": [
+            38.804207906098064
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:18Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "e4:70:b8:45:4d:2c",
+        "seenEpoch": 1572558078,
+        "rssi": 18,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993067308437,
+          "lng": -96.67882038283636,
+          "unc": 47.94095553079177,
+          "x": [
+            64.64140173217545
+          ],
+          "y": [
+            39.072835065183675
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:34Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "8c:85:90:35:0f:0d",
+        "seenEpoch": 1572558094,
+        "rssi": 13,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993922420802,
+          "lng": -96.67881815245302,
+          "unc": 48.14147916681317,
+          "x": [
+            65.58954404012003
+          ],
+          "y": [
+            38.85527370501963
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:36Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:eb:a7:47",
+        "seenEpoch": 1572558096,
+        "rssi": 12,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:15Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "b8:27:eb:f3:df:b8",
+        "seenEpoch": 1572558075,
+        "rssi": 8,
+        "ipv6": null,
+        "manufacturer": "Raspberry Pi Foundation"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 7.891397050194614,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:14Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "8c:85:90:5d:1e:7d",
+        "seenEpoch": 1572558074,
+        "rssi": 35,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999933824560294,
+          "lng": -96.67881956083919,
+          "unc": 4.232595171286226,
+          "x": [
+            64.99083506719376
+          ],
+          "y": [
+            38.99265386045175
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:36Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "8c:85:90:a5:5c:77",
+        "seenEpoch": 1572558096,
+        "rssi": 39,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.9999355834004,
+          "lng": -96.67881910208222,
+          "unc": 7.937001114580755,
+          "x": [
+            65.18585396603487
+          ],
+          "y": [
+            38.94790469607941
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:26Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "f8:59:71:c7:d7:ba",
+        "seenEpoch": 1572558086,
+        "rssi": 44,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999941202676034,
+          "lng": -96.67881763641064,
+          "unc": 48.32564135783896,
+          "x": [
+            65.80891511991445
+          ],
+          "y": [
+            38.80493667143442
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:19Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "40:a3:cc:20:97:89",
+        "seenEpoch": 1572558079,
+        "rssi": 16,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:30Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "00:45:1d:0e:61:7c",
+        "seenEpoch": 1572558090,
+        "rssi": 10,
+        "ipv6": null,
+        "manufacturer": "Cisco Systems"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.999938898970534,
+          "lng": -96.67881823728447,
+          "unc": 47.98235633064908,
+          "x": [
+            65.55348194653476
+          ],
+          "y": [
+            38.863548536754344
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:47Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "f4:8c:50:9d:15:20",
+        "seenEpoch": 1572558047,
+        "rssi": 8,
+        "ipv6": null,
+        "manufacturer": "Intel"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993343162099,
+          "lng": -96.67881966332926,
+          "unc": 48.04406251942925,
+          "x": [
+            64.94726624563225
+          ],
+          "y": [
+            39.00265119142125
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:36Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "10:f1:f2:81:e4:fd",
+        "seenEpoch": 1572558096,
+        "rssi": 12,
+        "ipv6": null,
+        "manufacturer": "LG Electronics (Mobile..."
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:33Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "78:4f:43:93:a0:43",
+        "seenEpoch": 1572558033,
+        "rssi": 19,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99993107440979,
+          "lng": -96.67882027815894,
+          "unc": 47.97656841607575,
+          "x": [
+            64.68590039940084
+          ],
+          "y": [
+            39.06262437064214
+          ]
+        },
+        "seenTime": "2019-10-31T21:41:01Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "a4:83:e7:28:88:a0",
+        "seenEpoch": 1572558061,
+        "rssi": 14,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      },
+      {
+        "ipv4": null,
+        "location": {
+          "lat": 32.99994124224894,
+          "lng": -96.67881762608887,
+          "unc": 49.0,
+          "x": [
+            65.81330293434684
+          ],
+          "y": [
+            38.803929840764695
+          ]
+        },
+        "seenTime": "2019-10-31T21:40:36Z",
+        "ssid": null,
+        "os": null,
+        "clientMac": "40:9c:28:50:3d:d9",
+        "seenEpoch": 1572558036,
+        "rssi": 16,
+        "ipv6": null,
+        "manufacturer": "Apple"
+      }
+    ]
+  }
+}

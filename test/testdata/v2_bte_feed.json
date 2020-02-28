@@ -1,0 +1,29 @@
+{
+  "version": "2.0",
+  "secret": "supersecret",
+  "type": "BluetoothDevicesSeen",
+  "data": {
+    "apMac": "88:15:44:aa:a9:26",
+    "apFloors": [
+    ],
+    "apTags": [
+    ],
+    "observations": [
+      {
+        "location": {
+          "lat": 52.376515264636,
+          "lng": 4.9240433145314,
+          "unc": 48.999999998421,
+          "x": [
+          ],
+          "y": [
+          ]
+        },
+        "seenTime": "2017-08-10T12:03:43Z",
+        "clientMac": "20:91:48:33:68:23",
+        "seenEpoch": 1502366623,
+        "rssi": -70
+      }
+    ]
+  }
+}
